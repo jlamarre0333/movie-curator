@@ -1,0 +1,108 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Dune: Part Two",
+      "type": "movie",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "releaseYear": 2024,
+      "rating": 8.5,
+      "platforms": [
+        "HBO Max"
+      ],
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Drama"
+      ],
+      "matchScore": 95,
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
+      "trailerUrl": "https://www.youtube.com/watch?v=Way9Dexny3w"
+    }
+  ],
+  "tvShows": [
+    {
+      "id": "2",
+      "title": "True Detective: Night Country",
+      "type": "tvShow",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kn28W24slqLyqji5Rrt6S5VlVzu.jpg",
+      "releaseYear": 2024,
+      "rating": 8.2,
+      "platforms": [
+        "HBO Max"
+      ],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "matchScore": 88,
+      "synopsis": "When the long winter night falls in Ennis, Alaska, the eight men who operate the Tsalal Arctic Research Station vanish without a trace. To solve the case, Detectives Liz Danvers and Evangeline Navarro must confront their pasts and the dark truths lying underneath the Arctic ice.",
+      "trailerUrl": "https://www.youtube.com/watch?v=0WZBrPvP_Hs"
+    }
+  ],
+  "preferences": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "selectedGenres": [
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "minRating": 7,
+    "platforms": [
+      {
+        "id": "netflix",
+        "name": "Netflix",
+        "enabled": true
+      },
+      {
+        "id": "prime",
+        "name": "Amazon Prime",
+        "enabled": true
+      },
+      {
+        "id": "hbomax",
+        "name": "HBO Max",
+        "enabled": true
+      },
+      {
+        "id": "disneyplus",
+        "name": "Disney+",
+        "enabled": true
+      }
+    ]
+  },
+  "watchlist": [
+    {
+      "id": "1",
+      "contentId": "1",
+      "dateAdded": "2024-02-20T08:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "contentId": "2",
+      "dateAdded": "2025-06-09T20:04:58.9716172-04:00"
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "1",
+      "contentId": "2",
+      "rating": 4,
+      "watchDate": "2024-02-19T08:00:00.000Z",
+      "notes": "Great show, amazing atmosphere"
+    }
+  ]
+}
